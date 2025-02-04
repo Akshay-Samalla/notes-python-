@@ -1,2 +1,1 @@
-grandson.showf()
-grandson.shows()
+      cursor.execute(query, (user_id,))
