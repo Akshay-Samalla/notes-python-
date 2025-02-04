@@ -86,8 +86,5 @@ if __name__ == "__main__":
     update_user(1, "John Smith", "johnsmith@example.com")
     delete_user(1)
             
-            
-            
-            
-            
+
             
