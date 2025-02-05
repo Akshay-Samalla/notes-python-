@@ -1,1 +1,0 @@
-      cursor.execute(query, (user_id,))
