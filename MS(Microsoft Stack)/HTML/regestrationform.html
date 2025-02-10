@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            form{
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                margin: 0;
+                padding: 50px;
+                background-color: black;
+                color: white;
+                height: 100vh;
+            }
+            .text_box,select,button{
+                display: flex;
+                max-width: 50vh;
+                padding: 10px;
+                border-radius: 9px;
+                margin: 10px;
+            }
+            button{
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <form action="/">
+            <label for="name">name:</label>
+            <input type="text" id="name" class="text_box">
+
+                        <label for="age">age:</label>
+                        <input type="text" id="age" class="text_box">
+                        <label for="gender">gender:</label>
+                        <select name="gender" id="gender">
+                            <option value="male">male</option>
+                            <option value="female">female</option>
+                        </select>
+                    <button onclick="submithere(event)">submit</button>
+        </form>
+        
+        <script>
+            function submithere(event){
+                event.preventDefault()
+             
+                let name=document.getElementById('name').value
+                let age=document.getElementById('age').value
+                let gender=document.getElementById('gender').value
+                console.log(name,age,gender)
+                alert(`${name},${age},${gender}`    )
+                
+            
+
+            }
+            
+        </script>
+    </body>
+</html>

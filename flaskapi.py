@@ -20,7 +20,8 @@ def add_user():
     name = data['name']
     email = data['email']
     age = data['age']
-    cursor.execute("INSERT INTO users (name, email, age) VALUES (%s, %s, %s)", (name, email, age))
+    cursor.execute("INSERT INTO users (name, email, age)\
+        VALUES (%s, %s, %s)", (name, email, age))
     conn.commit()
     return jsonify({"message": "User added successfully"}), 201
 
