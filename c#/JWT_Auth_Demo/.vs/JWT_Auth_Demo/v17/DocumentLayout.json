@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\jwt_auth_demo\\jwt_auth_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|solutionrelative:jwt_auth_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\jwt_auth_demo\\jwt_auth_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|solutionrelative:jwt_auth_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\jwt_auth_demo\\jwt_auth_demo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|solutionrelative:jwt_auth_demo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\jwt_auth_demo\\jwt_auth_demo\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|solutionrelative:jwt_auth_demo\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\jwt_auth_demo\\jwt_auth_demo\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|solutionrelative:jwt_auth_demo\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\jwt_auth_demo\\jwt_auth_demo\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|solutionrelative:jwt_auth_demo\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\jwt_auth_demo\\jwt_auth_demo\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|solutionrelative:jwt_auth_demo\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\jwt_auth_demo\\jwt_auth_demo\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4606BABE-AB7F-4621-A8D5-B581E3464D34}|JWT_Auth_Demo\\JWT_Auth_Demo.csproj|solutionrelative:jwt_auth_demo\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "JWT_Auth_Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Program.cs",
+              "RelativeToolTip": "JWT_Auth_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:46:18.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT_Auth_Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\appsettings.json",
+              "RelativeToolTip": "JWT_Auth_Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T10:45:03.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Authentication\\UserRoles.cs",
+              "RelativeDocumentMoniker": "JWT_Auth_Demo\\Authentication\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Authentication\\UserRoles.cs",
+              "RelativeToolTip": "JWT_Auth_Demo\\Authentication\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:42:55.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Authentication\\Response.cs",
+              "RelativeDocumentMoniker": "JWT_Auth_Demo\\Authentication\\Response.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Authentication\\Response.cs",
+              "RelativeToolTip": "JWT_Auth_Demo\\Authentication\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:41:50.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Authentication\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JWT_Auth_Demo\\Authentication\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Authentication\\LoginModel.cs",
+              "RelativeToolTip": "JWT_Auth_Demo\\Authentication\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:41:22.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Authentication\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "JWT_Auth_Demo\\Authentication\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Authentication\\RegisterModel.cs",
+              "RelativeToolTip": "JWT_Auth_Demo\\Authentication\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:40:39.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JWT_Auth_Demo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JWT_Auth_Demo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:39:15.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "JWT_Auth_Demo\\Authentication\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\JWT_Auth_Demo\\JWT_Auth_Demo\\Authentication\\ApplicationUser.cs",
+              "RelativeToolTip": "JWT_Auth_Demo\\Authentication\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:34:37.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

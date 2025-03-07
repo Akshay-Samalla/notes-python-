@@ -1,0 +1,12 @@
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\bin\Debug\net8.0\CalcuationLibrary.deps.json
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\bin\Debug\net8.0\CalcuationLibrary.dll
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\bin\Debug\net8.0\CalcuationLibrary.pdb
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\obj\Debug\net8.0\CalcuationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\obj\Debug\net8.0\CalcuationLibrary.AssemblyInfoInputs.cache
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\obj\Debug\net8.0\CalcuationLibrary.AssemblyInfo.cs
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\obj\Debug\net8.0\CalcuationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\obj\Debug\net8.0\CalcuationLibrary.sourcelink.json
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\obj\Debug\net8.0\CalcuationLibrary.dll
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\obj\Debug\net8.0\refint\CalcuationLibrary.dll
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\obj\Debug\net8.0\CalcuationLibrary.pdb
+C:\Users\aksha\Desktop\New folder (2)\c#\CalcuationLibraryDLL\CalcuationLibrary\obj\Debug\net8.0\ref\CalcuationLibrary.dll

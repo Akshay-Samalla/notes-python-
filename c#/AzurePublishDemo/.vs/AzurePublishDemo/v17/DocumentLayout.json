@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\azurepublishdemo\\azurepublishdemo\\azurepublishdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|solutionrelative:azurepublishdemo\\azurepublishdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\azurepublishdemo\\azurepublishdemo\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|solutionrelative:azurepublishdemo\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\azurepublishdemo\\azurepublishdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|solutionrelative:azurepublishdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\azurepublishdemo\\azurepublishdemo\\azurepublishdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|solutionrelative:azurepublishdemo\\azurepublishdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\azurepublishdemo\\azurepublishdemo\\azurepublishdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|solutionrelative:azurepublishdemo\\azurepublishdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\azurepublishdemo\\azurepublishdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|solutionrelative:azurepublishdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\azurepublishdemo\\azurepublishdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373CBB1C-FA78-49EA-A51B-6100CF623212}|AzurePublishDemo\\AzurePublishDemo.csproj|solutionrelative:azurepublishdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "AzurePublishDemo\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "AzurePublishDemo\\Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:41:50.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzurePublishDemo",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\AzurePublishDemo.csproj",
+              "RelativeDocumentMoniker": "AzurePublishDemo\\AzurePublishDemo.csproj",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\AzurePublishDemo.csproj",
+              "RelativeToolTip": "AzurePublishDemo\\AzurePublishDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T09:34:15.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AzurePublishDemo",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\AzurePublishDemo.csproj",
+              "RelativeDocumentMoniker": "AzurePublishDemo\\AzurePublishDemo.csproj",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\AzurePublishDemo.csproj",
+              "RelativeToolTip": "AzurePublishDemo\\AzurePublishDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T09:32:52.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzurePublishDemo.http",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\AzurePublishDemo.http",
+              "RelativeDocumentMoniker": "AzurePublishDemo\\AzurePublishDemo.http",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\AzurePublishDemo.http",
+              "RelativeToolTip": "AzurePublishDemo\\AzurePublishDemo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-22T09:32:13.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AzurePublishDemo\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\appsettings.Development.json",
+              "RelativeToolTip": "AzurePublishDemo\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T09:32:09.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AzurePublishDemo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AzurePublishDemo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T09:32:57.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AzurePublishDemo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\AzurePublishDemo\\AzurePublishDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AzurePublishDemo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:31:59.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EF_DB_FIRST\\EF_DB_FIRST.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Restsharptest\\Restsharptest.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

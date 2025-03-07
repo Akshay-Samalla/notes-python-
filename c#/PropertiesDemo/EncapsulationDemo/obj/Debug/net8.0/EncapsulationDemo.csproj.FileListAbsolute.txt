@@ -1,0 +1,5 @@
+C:\Users\aksha\Desktop\New folder (2)\c#\PropertiesDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksha\Desktop\New folder (2)\c#\PropertiesDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.AssemblyInfoInputs.cache
+C:\Users\aksha\Desktop\New folder (2)\c#\PropertiesDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.AssemblyInfo.cs
+C:\Users\aksha\Desktop\New folder (2)\c#\PropertiesDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.csproj.CoreCompileInputs.cache
+C:\Users\aksha\Desktop\New folder (2)\c#\PropertiesDemo\EncapsulationDemo\obj\Debug\net8.0\EncapsulationDemo.sourcelink.json

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Screen Sharing Sender</title>
+    <style>
+        #localVideo {
+            width: 100%;
+            height: auto;
+            border: 1px solid black;
+        }
+
+        #status {
+            margin-top: 20px;
+        }
+
+        button {
+            margin: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Screen Sharing Sender</h1>
+    <video id="localVideo" autoplay muted></video>
+    <button id="shareButton">Share Screen</button>
+    <div id="status"></div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        const localVideo = document.getElementById('localVideo');
+        const shareButton = document.getElementById('shareButton');
+        const statusDiv = document.getElementById('status');
+
+        let localStream;
+        let peerConnections = {};
+        let socket;
+
+        const configuration = {
+            iceServers: [{ urls: 'stun:stun.l.google.com:19302' }]
+        };
+
+        socket = io();
+
+        shareButton.addEventListener('click', async () => {
+            if (!socket.senderId) {
+                statusDiv.textContent = 'Please wait for confirmation that you are registered as a sender.';
+                return;
+            }
+
+            try {
+                localStream = await navigator.mediaDevices.getDisplayMedia({ video: true });
+                localVideo.srcObject = localStream;
+                statusDiv.textContent = 'Local stream acquired.';
+
+                socket.emit('register-as-sender');
+            } catch (error) {
+                console.error('Error accessing media devices.', error);
+                statusDiv.textContent = 'Error accessing media devices.';
+            }
+        });
+
+        socket.on('registered-as-sender', () => {
+            socket.senderId = socket.id;
+            statusDiv.textContent = 'Registered as sender. Ready to share screen.';
+        });
+
+        socket.on('registration-failed', (message) => {
+            statusDiv.textContent = message;
+        });
+
+        socket.on('offer', async (offer, receiverId) => {
+            try {
+                const peerConnection = new RTCPeerConnection(configuration);
+
+                peerConnections[receiverId] = peerConnection;
+
+                peerConnection.onicecandidate = event => {
+                    if (event.candidate) {
+                        socket.emit('ice-candidate', event.candidate, receiverId);
+                        statusDiv.textContent = 'ICE candidate sent to receiver.';
+                    }
+                };
+
+                localStream.getTracks().forEach(track => {
+                    peerConnection.addTrack(track, localStream);
+                });
+
+                await peerConnection.setRemoteDescription(new RTCSessionDescription(offer));
+
+                const answer = await peerConnection.createAnswer();
+                await peerConnection.setLocalDescription(answer);
+                socket.emit('answer', answer, receiverId);
+                statusDiv.textContent = 'Answer sent to receiver.';
+            } catch (error) {
+                console.error('Error handling offer.', error);
+                statusDiv.textContent = 'Error handling offer.';
+            }
+        });
+
+        socket.on('ice-candidate', (candidate, receiverId) => {
+            try {
+                const peerConnection = peerConnections[receiverId];
+                if (peerConnection) {
+                    peerConnection.addIceCandidate(new RTCIceCandidate(candidate));
+                    statusDiv.textContent = 'ICE candidate received from receiver.';
+                }
+            } catch (error) {
+                console.error('Error adding ICE candidate.', error);
+                statusDiv.textContent = 'Error adding ICE candidate.';
+            }
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\ef_cf_multitable\\ef_cf_multitable\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|solutionrelative:ef_cf_multitable\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\ef_cf_multitable\\ef_cf_multitable\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|solutionrelative:ef_cf_multitable\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\ef_cf_multitable\\ef_cf_multitable\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|solutionrelative:ef_cf_multitable\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\ef_cf_multitable\\ef_cf_multitable\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|solutionrelative:ef_cf_multitable\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\ef_cf_multitable\\ef_cf_multitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|solutionrelative:ef_cf_multitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\ef_cf_multitable\\ef_cf_multitable\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|solutionrelative:ef_cf_multitable\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\ef_cf_multitable\\ef_cf_multitable\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|solutionrelative:ef_cf_multitable\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\ef_cf_multitable\\ef_cf_multitable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|solutionrelative:ef_cf_multitable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\ef_cf_multitable\\ef_cf_multitable\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|solutionrelative:ef_cf_multitable\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\ef_cf_multitable\\ef_cf_multitable\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|solutionrelative:ef_cf_multitable\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|c:\\users\\aksha\\desktop\\new folder (2)\\c#\\ef_cf_multitable\\ef_cf_multitable\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708BE6D-5515-4D53-8DF1-472EA75D0A0A}|EF_CF_multitable\\EF_CF_multitable.csproj|solutionrelative:ef_cf_multitable\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EF_CF_multitable\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EF_CF_multitable\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T04:09:38.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EF_CF_multitable\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Services\\ProductService.cs",
+              "RelativeToolTip": "EF_CF_multitable\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:37:47.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "EF_CF_multitable\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Services\\IProductService.cs",
+              "RelativeToolTip": "EF_CF_multitable\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:36:41.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "EF_CF_multitable\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "EF_CF_multitable\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:32:25.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "EF_CF_multitable\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "EF_CF_multitable\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:31:22.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Program.cs",
+              "RelativeDocumentMoniker": "EF_CF_multitable\\Program.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Program.cs",
+              "RelativeToolTip": "EF_CF_multitable\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:05:53.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Data\\MyContext.cs",
+              "RelativeDocumentMoniker": "EF_CF_multitable\\Data\\MyContext.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Data\\MyContext.cs",
+              "RelativeToolTip": "EF_CF_multitable\\Data\\MyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:29:29.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\appsettings.json",
+              "RelativeDocumentMoniker": "EF_CF_multitable\\appsettings.json",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\appsettings.json",
+              "RelativeToolTip": "EF_CF_multitable\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T08:28:14.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EF_CF_multitable\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Models\\Order.cs",
+              "RelativeToolTip": "EF_CF_multitable\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:17:13.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EF_CF_multitable\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Models\\Product.cs",
+              "RelativeToolTip": "EF_CF_multitable\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:16:53.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EF_CF_multitable\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\aksha\\Desktop\\New folder (2)\\c#\\EF_CF_multitable\\EF_CF_multitable\\Models\\Category.cs",
+              "RelativeToolTip": "EF_CF_multitable\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:15:32.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

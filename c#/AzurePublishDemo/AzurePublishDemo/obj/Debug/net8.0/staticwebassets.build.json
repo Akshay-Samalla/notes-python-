@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FkPsdM1/mrrPbT+K2Mauv9asQEDmTZ691oqvvnclCsY=",
+  "Source": "AzurePublishDemo",
+  "BasePath": "_content/AzurePublishDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

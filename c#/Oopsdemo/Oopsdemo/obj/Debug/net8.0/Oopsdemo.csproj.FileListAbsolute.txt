@@ -1,0 +1,15 @@
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\obj\Debug\net8.0\Oopsdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\obj\Debug\net8.0\Oopsdemo.AssemblyInfoInputs.cache
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\obj\Debug\net8.0\Oopsdemo.AssemblyInfo.cs
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\obj\Debug\net8.0\Oopsdemo.csproj.CoreCompileInputs.cache
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\obj\Debug\net8.0\Oopsdemo.sourcelink.json
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\bin\Debug\net8.0\Oopsdemo.exe
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\bin\Debug\net8.0\Oopsdemo.deps.json
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\bin\Debug\net8.0\Oopsdemo.runtimeconfig.json
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\bin\Debug\net8.0\Oopsdemo.dll
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\bin\Debug\net8.0\Oopsdemo.pdb
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\obj\Debug\net8.0\Oopsdemo.dll
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\obj\Debug\net8.0\refint\Oopsdemo.dll
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\obj\Debug\net8.0\Oopsdemo.pdb
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\obj\Debug\net8.0\Oopsdemo.genruntimeconfig.cache
+C:\Users\aksha\Desktop\New folder (2)\c#\Oopsdemo\Oopsdemo\obj\Debug\net8.0\ref\Oopsdemo.dll

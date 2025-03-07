@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpapitestproject", "RestSharpapitestproject\RestSharpapitestproject.csproj", "{06EABA88-EDA2-49D8-A491-7BF5BFB17A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi", "ProductApi\ProductApi.csproj", "{4FE5547C-06A2-469B-BAEC-F327C04A4AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EABA88-EDA2-49D8-A491-7BF5BFB17A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EABA88-EDA2-49D8-A491-7BF5BFB17A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EABA88-EDA2-49D8-A491-7BF5BFB17A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EABA88-EDA2-49D8-A491-7BF5BFB17A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE5547C-06A2-469B-BAEC-F327C04A4AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE5547C-06A2-469B-BAEC-F327C04A4AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE5547C-06A2-469B-BAEC-F327C04A4AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE5547C-06A2-469B-BAEC-F327C04A4AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BEA7206-1AE3-4D78-B4E4-52DA7338320A}
+	EndGlobalSection
+EndGlobal

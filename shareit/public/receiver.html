@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Screen Sharing Receiver</title>
+    <style>
+        #remoteVideo {
+            width: 100%;
+            height: auto;
+            border: 1px solid black;
+        }
+
+        #status {
+            margin-top: 20px;
+        }
+
+        button {
+            margin: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Screen Sharing Receiver</h1>
+    <video id="remoteVideo" autoplay></video>
+    <button id="receiveButton">Receive Screen</button>
+    <div id="status"></div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        const remoteVideo = document.getElementById('remoteVideo');
+        const receiveButton = document.getElementById('receiveButton');
+        const statusDiv = document.getElementById('status');
+
+        let peerConnection;
+        let socket;
+
+        const configuration = {
+            iceServers: [{ urls: 'stun:stun.l.google.com:19302' }]
+        };
+
+        socket = io();
+
+        receiveButton.addEventListener('click', () => {
+            socket.emit('register-as-receiver');
+        });
+
+        socket.on('registered-as-receiver', () => {
+            socket.receiverId = socket.id;
+            statusDiv.textContent = 'Registered as receiver. Waiting for sender...';
+        });
+
+        socket.on('registration-failed', (message) => {
+            statusDiv.textContent = message;
+        });
+
+        socket.on('sender-ready', () => {
+            statusDiv.textContent = 'Sender is ready. Click "Receive Screen" to start receiving.';
+        });
+
+        socket.on('sender-disconnected', () => {
+            statusDiv.textContent = 'Sender disconnected. Please wait for a new sender.';
+        });
+
+        socket.on('offer', async (offer, senderId) => {
+            try {
+                peerConnection = new RTCPeerConnection(configuration);
+
+                peerConnection.ontrack = event => {
+                    remoteVideo.srcObject = event.streams[0];
+                    statusDiv.textContent = 'Receiving shared screen!';
+                };
+
+                peerConnection.onicecandidate = event => {
+                    if (event.candidate) {
+                        socket.emit('ice-candidate', event.candidate, senderId);
+                        statusDiv.textContent = 'ICE candidate sent to sender.';
+                    }
+                };
+
+                await peerConnection.setRemoteDescription(new RTCSessionDescription(offer));
+
+                const answer = await peerConnection.createAnswer();
+                await peerConnection.setLocalDescription(answer);
+                socket.emit('answer', answer, senderId);
+                statusDiv.textContent = 'Answer sent to sender.';
+            } catch (error) {
+                console.error('Error handling offer.', error);
+                statusDiv.textContent = 'Error handling offer.';
+            }
+        });
+
+        socket.on('ice-candidate', (candidate, senderId) => {
+            try {
+                if (peerConnection) {
+                    peerConnection.addIceCandidate(new RTCIceCandidate(candidate));
+                    statusDiv.textContent = 'ICE candidate received from sender.';
+                }
+            } catch (error) {
+                console.error('Error adding ICE candidate.', error);
+                statusDiv.textContent = 'Error adding ICE candidate.';
+            }
+        });
+    </script>
+</body>
+
+</html>

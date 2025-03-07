@@ -1,0 +1,15 @@
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\bin\Debug\net8.0\Array_demo.exe
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\bin\Debug\net8.0\Array_demo.deps.json
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\bin\Debug\net8.0\Array_demo.runtimeconfig.json
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\bin\Debug\net8.0\Array_demo.dll
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\bin\Debug\net8.0\Array_demo.pdb
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\obj\Debug\net8.0\Array_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\obj\Debug\net8.0\Array_demo.AssemblyInfoInputs.cache
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\obj\Debug\net8.0\Array_demo.AssemblyInfo.cs
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\obj\Debug\net8.0\Array_demo.csproj.CoreCompileInputs.cache
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\obj\Debug\net8.0\Array_demo.sourcelink.json
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\obj\Debug\net8.0\Array_demo.dll
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\obj\Debug\net8.0\refint\Array_demo.dll
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\obj\Debug\net8.0\Array_demo.pdb
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\obj\Debug\net8.0\Array_demo.genruntimeconfig.cache
+C:\Users\aksha\Desktop\New folder (2)\c#\Array_demo\Array_demo\obj\Debug\net8.0\ref\Array_demo.dll
