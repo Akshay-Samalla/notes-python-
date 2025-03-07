@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 ﻿<Project>
   <Import Project="..\buildMultiTargeting\WebApidemo2.props" />
+=======
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebApidemo2.props" />
+>>>>>>> origin/master
 </Project>

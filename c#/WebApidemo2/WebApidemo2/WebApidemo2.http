@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 @WebApidemo2_HostAddress = http://localhost:5134
 
 GET {{WebApidemo2_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+=======
+@WebApidemo2_HostAddress = http://localhost:5134
+
+GET {{WebApidemo2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+>>>>>>> origin/master

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Version": 1,
   "Hash": "z0w3VchbbY+p4hLfJIkJKPp0wcETxkJw4SvhoVBuxIQ=",
@@ -9,4 +10,17 @@
   "DiscoveryPatterns": [],
   "Assets": [],
   "Endpoints": []
+=======
+{
+  "Version": 1,
+  "Hash": "z0w3VchbbY+p4hLfJIkJKPp0wcETxkJw4SvhoVBuxIQ=",
+  "Source": "WebApidemo2",
+  "BasePath": "_content/WebApidemo2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+>>>>>>> origin/master
 }
